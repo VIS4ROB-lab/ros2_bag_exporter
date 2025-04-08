@@ -2,10 +2,10 @@
 # This file specifies the paths, storage format, and topics to extract from the ROS bag.
 
 # Path to the input ROS2 bag file
-bag_path: "/media/rborder/v4rl_grey/data/calibration/seq_1"
+bag_path: "/home/rborder/data/eagleeye/calibration/seq_50"
 
 # Directory where the exported data will be saved
-output_dir: "/media/rborder/v4rl_grey/data/calibration/seq_1"
+output_dir: "/home/rborder/data/eagleeye/calibration/seq_50"
 
 # Storage format for the exported data. Options are "sqlite3" or "mcap"
 storage_id: "sqlite3"
